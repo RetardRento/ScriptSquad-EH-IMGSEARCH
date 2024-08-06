@@ -15,4 +15,5 @@ Replace the endpoint adress with the front end ( on the expo running port) not t
 
 run these two commands in order in two different terminals
 > python app.py
+
 > npx expo start
